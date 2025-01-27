@@ -1,0 +1,17 @@
+git add . - to commit all files
+git add <filename> = to commit just one filename
+git add <file1> <file2> to commit multiple files
+
+Let me commit one file
+unstage one file
+use git log
+
+--> comparing the staged and unstaged file
+git diff fileUsedForLearning1.txt
+    1.you can restore it ti the orevious staged version using 
+        git restore fileUsedForLearning1.txt
+    2. Use the current version by adding it 
+        git add fileUsedForLearning1.txt
+    3. Remove the file from staging area
+        git reset fileUsedForLearning1.txt
+
