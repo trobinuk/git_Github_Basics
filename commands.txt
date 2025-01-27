@@ -10,3 +10,6 @@ git diff <file> After making changes to the staged file (after git add) Compare 
 git restore <file> (To restore to the staged version) 
 git reset <file> (To remove the file from stage and start over)
 git rm --cached <file> (To remove the file from stage)
+git log
+
+adding an empty line
