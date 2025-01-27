@@ -15,3 +15,5 @@ git diff fileUsedForLearning1.txt
     3. Remove the file from staging area
         git reset fileUsedForLearning1.txt
 
+git commit -m "Initial commit"
+

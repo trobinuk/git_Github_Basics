@@ -1,0 +1,12 @@
+I'd enter git init first
+git status is the important command
+
+Command learned
+git init
+git status
+git add <file>
+git commit -m ""
+git diff <file> After making changes to the staged file (after git add) Compare the diff
+git restore <file> (To restore to the staged version) 
+git reset <file> (To remove the file from stage and start over)
+git rm --cached <file> (To remove the file from stage)
