@@ -15,3 +15,13 @@ git log
 adding an empty line
 
 01/28/2025 -> hello
+
+git checkout <hash>
+
+I'm gonna add four lines here
+git branch -- list all the branches Indicate which branch your'e in 
+git branch <branchname> creates new branch
+git checkout <branchname>
+
+git add
+git commit 
