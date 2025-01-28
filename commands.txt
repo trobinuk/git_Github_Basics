@@ -13,3 +13,5 @@ git rm --cached <file> (To remove the file from stage)
 git log
 
 adding an empty line
+
+01/28/2025 -> hello
